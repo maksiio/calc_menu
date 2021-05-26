@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#000000</color>
-    <color name="purple_500">#FF6200EE</color>
-    <color name="purple_700">#1E88E5</color>
-    <color name="teal_200">#FF03DAC5</color>
-    <color name="teal_700">#FF018786</color>
-    <color name="white">#FFFFFF</color>
-    <color name="blue">#2713D6</color>
-    <color name="red">#A80400</color>
-    <color name="red_weak">#AF5959</color>
-    <color name="blue2">#B1A8FF</color>
+<!--свет текста-->
+    <color name="s">#000000</color>
+<!--фон калькулятора-->
+    <color name="d">#9eacc9</color>
+<!--фон симлолов калькулятора-->
+    <color name="i">#b1d5fa</color>
+<!--текст калькулятора-->
+    <color name="f">#FFFFFF</color>
+<!--свет  фона цифр калькулятора-->
+    <color name="g">#709fb0</color>
+<!--свет стерания калькулятора-->
+    <color name="l">#413c69</color>
+<!--свет кнопок меню-->
+    <color name="r">#5A2597</color>
 </resources>
